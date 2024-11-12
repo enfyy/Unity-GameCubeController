@@ -15,7 +15,7 @@ Coming soon (maybe).
 Add to your manifest.json:
 ```json
 "dependencies": {
-  "com.nfysoft.gamecubecontroller": "git@github.com:enfyy/com.nfysoft.gamecubecontroller.git"  
+  "com.nfysoft.gamecubecontroller": "git@github.com:enfyy/Unity-GameCubeController.git"  
 }
 ```
 
